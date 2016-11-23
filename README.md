@@ -15,5 +15,5 @@ The budget cap is 80
 
 ### Tests
 ```shell
-py.test budget_tests.py
+py.test test_budget.py
 ```
